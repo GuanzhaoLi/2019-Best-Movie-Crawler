@@ -12,7 +12,7 @@ to run the main program, simply use
 
 You may find it will generate .log file named basicSpider.log, in which debug info can be found.
 
-
+The result can be found in doubanMovie.txt, which include title, abstract, and info of box office, etc
 
 
 *   The doubanCrawler.py starts from a starting url and crawl all the pages that is in the navigator in a BFS manner. 
