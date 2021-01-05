@@ -8,7 +8,7 @@ make sure you have python 3 and bs4 in your environment
 
 to run the main program, simply use
 
-python3 doubanCrawler_multiprocessing.py
+***python3 doubanCrawler_multiprocessing.py
 
 You may find it will generate .log file named basicSpider.log, in which debug info can be found.
 
